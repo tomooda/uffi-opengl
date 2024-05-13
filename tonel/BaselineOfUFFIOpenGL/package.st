@@ -1,1 +1,1 @@
-Package { #name : #BaselineOfUFFIOpenGL }
+Package { #name : 'BaselineOfUFFIOpenGL' }
